@@ -1,0 +1,16 @@
+{
+  "id": "2207581",
+  "name": "北方",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7939959",
+      "name": "播放",
+      "font_class": "el-icon-ump",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+// menu
+$menuActiveText: #409eff;
+$Bg:#4D90FE;
+$menuBg: #4D90FE;
+$menuTextColor: #fff;
+////  子组件的菜单
+$SonMenuBg:#F5F5F5;
+$SonmenuTextColor:black;
+$SonMenuActiveTextColor:#fff;
+:export {
+  menuActiveText: $menuActiveText;
+  menuBg: $menuBg;
+  menuTextColor:$menuTextColor;
+  Bg:$Bg;
+//  子组件的菜单
+  SonMenuBg:$SonMenuBg;
+  SonmenuTextColor:$SonmenuTextColor;
+  SonMenuActiveTextColor:$SonMenuActiveTextColor;
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "title": "网站首页",
+    "path": "/index"
+  },
+  {
+    "title": "集团概况",
+    "path": "/group",
+    "child": [
+      { "title": "集团简介", "path": "/group/profile" },
+      { "title": "机构设置", "path": "/group/setting" },
+      { "title": "剧场介绍", "path": "/group/theatre" },
+      { "title": "集团荣誉", "path": "/group/honor" },
+      { "title": "联系我们", "path": "/group/we" }
+    ]
+  },
+  {
+    "title": "演艺之声",
+    "path": "/performing",
+    "child": [
+      { "title": "集团动态", "path": "/performing/news" },
+      { "title": "政策专栏", "path": "/performing/column" },
+      { "title": "戏剧评论", "path": "/performing/review" }
+    ]
+  },
+  { "title": "精品展示", "path": "/exhibition","index": "nmb" },
+  {
+    "title": "名家新星",
+    "path": "/star",
+    "child": [
+      { "title": "艺术名家", "path": "/star/virtuoso" },
+      { "title": "舞台新星", "path": "/star/stage" },
+      { "title": "星专访", "path": "/star/interview" }
+    ]
+  },
+  {
+    "title": "演艺拓展",
+    "path": "/development",
+    "child": [
+      { "title": "舞美服务", "path": "/development/service" },
+      { "title": "艺术培训", "path": "/development/training" },
+      { "title": "文旅融合", "path": "/development/integration" }
+    ]
+  },
+  {
+    "title": "党的建设",
+    "path": "/building",
+    "child": [
+      { "title": "党建活动", "path": "/building/activities" },
+      { "title": "企业精神", "path": "/building/spirit" }
+    ]
+  }
+
+]
